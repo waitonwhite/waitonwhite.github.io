@@ -9,7 +9,7 @@
     <div class="contents">
       <img
         src="https://mymodernmet.com/wp/wp-content/uploads/2019/07/will-burrard-lucas-beetlecam-23-1024x683.jpg"
-        style="height: 150px"
+        style="height: 200px"
       />
       <iframe
         width="420"
